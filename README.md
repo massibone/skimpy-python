@@ -19,14 +19,7 @@ skimpy/
 ├── README.md
 ├── pyproject.toml
 ├── .gitignore
-├── LICENSE
-├── skimpy/
-│   ├── __init__.py
-│   ├── io.py
-│   ├── inspect.py
-│   ├── viz.py
-│   ├── clean.py
-│   └── cli.py
+├── skimpy.py
 ├── tests/
 ├── examples/
 ```
